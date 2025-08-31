@@ -3,4 +3,6 @@ pandas
 yfinance
 numpy
 matplotlib
+statsmodels
 scipy
+pypfopt
